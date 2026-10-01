@@ -1,0 +1,4 @@
+name: StackSize
+version: 1.0
+main: dev.stacksize.StackSize
+api-version: "1.21"
